@@ -1,0 +1,20 @@
+walidacja- jest to proces sprawdzania strony internetowej pod wzgledem bledow skladniowych. Aby dokonac walidacji strony musimy 
+uruchomic inna strone lub program zwany walidatorem. Walidator pokazuje gdzie sa bledy oraz podaje jaki to jest blad z opisem. 
+
+
+Wykonac:
+Do walidatora wgrac index z zadaniami od 1 do 6. Wykonac  zrzut ekranu zaraz po wgraniu 
+skopiowac do painta wyciac czesc obrazu tak aby bylo widac ilosc bledow, 
+dodac na czerwono imie i nazwisko. Przez 15 minut poprawiamy conajmniej jeden blad dokonujemy walidacji robimy zrzut ekranu z nazwiskiem. 
+Na poczatku strony wykonujemy siodmy link do strony o nazwie walidacja_nazwisko.html w pliku tym umieszczamy definicje walidacji oraz dwa zrzuty ekranu umieszczamy rowniez link
+do indexu
+
+
+Zadanie domowe;
+skonczyc zdanie 7 i umiescic na githubie 
+wykonac w wordzie lub w openofficie projekt tabeli zawierajacej:
+conajmniej 36 komorek
+dane komputerowe 
+laczenie komorek w pione i poziomie
+rozne kolory komorek 
+obramowanie
