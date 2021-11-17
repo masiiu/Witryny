@@ -1,0 +1,8 @@
+praca domowa
+wykonac projekt formularza. 
+wymagania:
+kartka formatu a4
+linijka olowek
+formularz zawiera wszystkie mozliwe elementy tworzy logiczna calosc
+formularz zajmuje cala kartke papieru po lewej i po prawej 
+kartka papieru jest podpisana imie nazwisko klasa grupa w lewym gornym rogu
